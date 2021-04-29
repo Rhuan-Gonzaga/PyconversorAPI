@@ -1,3 +1,3 @@
-# Conversor de real para dollar usando uma API.
-Ferramenta: Python
+# Real dollar converter using an API.
+Tool: Python
 
